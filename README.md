@@ -1,1 +1,2 @@
-tugas
+#LATIHAN
+TUGAS
