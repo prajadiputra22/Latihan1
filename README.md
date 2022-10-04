@@ -1,2 +1,0 @@
-#LATIHAN
-TUGAS
